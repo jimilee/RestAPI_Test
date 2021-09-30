@@ -1,2 +1,2 @@
 # RestAPI_Test
-카카오 코테 2차 준비용 RestAPI testing
+RestAPI testing (feat. Programmers 과제관 - 2021카카오 신입공채 코딩테스트2차)
